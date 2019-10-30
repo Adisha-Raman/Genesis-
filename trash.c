@@ -2,10 +2,10 @@
 
 int main()
 {
- int n1,n2;
+
 void x();
 
-for(n1=1;n1<6;n1++)
+for(int n1=1;n1<6;n1++)
 printf("%d ",n1);
 
     return 0;
